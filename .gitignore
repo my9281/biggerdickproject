@@ -4,3 +4,6 @@
 
 /.vs
 /Sources/WinService/obj
+/Sources/.vs/BDP/FileContentIndex
+/Sources/WinWindow/obj
+/Sources/WinWindow/.vs/WinWindow
